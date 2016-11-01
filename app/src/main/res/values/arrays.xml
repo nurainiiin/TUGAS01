@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="JK">
+        <item>Surabaya</item>
+        <item>Mojokerto</item>
+        <item>Jombang</item>
+        <item>Kediri</item>
+        <item>Nganjuk</item>
+    </string-array>
+</resources>
